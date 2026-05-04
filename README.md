@@ -1,6 +1,6 @@
 # Welcome, Wanderer! 
 
-You've just entered the corner of **Abhigyan Dwivedi** (aka Arpit) — a curious coder, anime enthusiast , and a CSE undergrad who’s always leveling up both in code and in life 🚀
+You've just entered the corner of **Abhigyan Dwivedi** — a curious coder, anime enthusiast , and a CSE undergrad who’s always leveling up both in code and in life 🚀
 
 Whether it's breaking down machine logic or diving deep into the world of anime storylines, I find joy in connecting patterns—digital or emotional.
 
