@@ -1,40 +1,83 @@
-<h1 align="center">Abhigyan Dwivedi</h1>
-<p align="center">Computer Science student &nbsp;•&nbsp; Full-stack development &nbsp;•&nbsp; Applied AI</p>
+<h1 align="center">Hi, I'm Abhigyan.</h1>
+<p align="center"><strong>UX &amp; product design · Full-stack development · Applied AI</strong></p>
+<p align="center">Thinking through the experience. Designing the interface. Building the product.</p>
 
 <p align="center">
-  <a href="https://abhigyandwivedi.me">Website</a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abhigyan-dwivedi">LinkedIn</a> &nbsp;&nbsp;
-  <a href="https://github.com/abhigyan6?tab=repositories">Code</a>
+  <a href="https://abhigyandwivedi.me">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/abhigyan-dwivedi">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://github.com/abhigyan6?tab=repositories">Projects</a>
 </p>
 
----
+<br />
 
-I'm a Computer Science student at **LNCTE, India**, building full-stack applications and practical AI tools. My projects span HR workflows, cricket video analysis, network troubleshooting, and macOS app privacy.
+## About
 
-I work with **React, TypeScript, Node.js, and Python**, while continuing to strengthen my Java and computer science fundamentals. I care about clear interfaces, useful documentation, and honest project scope.
+I'm **Abhigyan Dwivedi**, a Computer Science student at **LNCTE, India**, working at the intersection of **UX, product design, and software development**.
 
-#### Working with
+I enjoy taking an idea from its user flow to an interface people can try. My projects explore everyday workflows, useful AI tools, and clear interactions—from HR dashboards to a macOS privacy concept.
 
-<p>
-  <img height="24" alt="Java" src="https://img.shields.io/badge/Java-30363d?style=flat-square" />
-  <img height="24" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-30363d?style=flat-square&amp;logo=javascript" />
-  <img height="24" alt="HTML" src="https://img.shields.io/badge/HTML-30363d?style=flat-square&amp;logo=html5" />
-  <img height="24" alt="CSS" src="https://img.shields.io/badge/CSS-30363d?style=flat-square&amp;logo=css" />
-  <img height="24" alt="Git" src="https://img.shields.io/badge/Git-30363d?style=flat-square&amp;logo=git" />
-</p>
+**Currently focused on:** UX flows, product design, responsive interfaces, and turning prototypes into working applications.
 
-## Selected projects
+## How I approach a product
 
-| Project | What it explores | Try it |
-| --- | --- | --- |
-| **[StaffSync](https://github.com/abhigyan6/staffsync-showcase)** | MERN HR management with role-based workflows for HR, managers, and employees. Fictional demo data. | [Live demo](https://staffsync-demo.onrender.com) |
-| **[BallOut Pro](https://github.com/abhigyan6/Balloutpro-)** | React and TypeScript cricket video analysis prototype using Gemini and Firebase. | [Live demo](https://balloutpro.vercel.app) |
-| **[NetSage AI](https://github.com/abhigyan6/netsage-ai)** | Python and Streamlit network troubleshooting with deterministic checks and human-reviewed AI diagnoses. | [Dashboard](https://netsage-ai-app.streamlit.app/) |
-| **[Onlyward](https://github.com/abhigyan6/Onlyward)** | An early macOS app-privacy project; the public repository documents the concept and progress. | [Interactive preview](https://onlyward.app/) |
+| UX & product design | Development |
+| --- | --- |
+| Start with the task a person needs to complete. | Build a working path through that task. |
+| Give screens a clear hierarchy and consistent interactions. | Connect the interface to real data and APIs. |
+| Consider feedback, empty states, and recovery paths. | Make loading, validation, and errors understandable. |
+| Keep the product's scope and limitations clear. | Document what works and what is still a prototype. |
 
-### Learning & experiments
+These are the principles I'm developing through my projects—not claims of completed user research or measured product outcomes.
 
+## Selected work
+
+### [StaffSync](https://github.com/abhigyan6/staffsync-showcase)
+**Full-stack development / UX & product design**
+
+A MERN HR management capstone with separate workflows for HR, managers, and employees. Its UX and product design focus is making role-specific tasks—attendance, leave, and team management—clear within one responsive application.
+
+[Try the demo](https://staffsync-demo.onrender.com) · [Explore the code](https://github.com/abhigyan6/staffsync-showcase)  
+<sub>React · Material UI · Node.js · Express · MongoDB. Showcase uses fictional data.</sub>
+
+### [BallOut Pro](https://github.com/abhigyan6/Balloutpro-)
+**AI prototype / Interface & product design**
+
+A cricket video-analysis prototype built with React and TypeScript. The UX challenge is presenting an AI verdict, supporting explanation, and review controls in a readable interface.
+
+[Try the demo](https://balloutpro.vercel.app) · [Explore the code](https://github.com/abhigyan6/Balloutpro-)  
+<sub>React · TypeScript · Gemini · Firebase. Experimental prototype with a demo mode.</sub>
+
+### [NetSage AI](https://github.com/abhigyan6/netsage-ai)
+**Applied AI / Human-in-the-loop UX**
+
+A network troubleshooting dashboard combining deterministic checks with AI explanations. Its product design centers on an explicit human-review step: inspect evidence, review a diagnosis, then accept, edit, or reject it.
+
+[Open the dashboard](https://netsage-ai-app.streamlit.app/) · [Explore the code](https://github.com/abhigyan6/netsage-ai)  
+<sub>Python · Streamlit · Ollama · Cisco-style lab networks. Fixes are never applied automatically.</sub>
+
+### [Onlyward](https://github.com/abhigyan6/Onlyward)
+**UX & product design / macOS concept**
+
+An early app-privacy project exploring app selection, authentication, and relocking flows. The interactive preview communicates the proposed experience while the native application is in development.
+
+[Explore the preview](https://onlyward.app/) · [Read the project overview](https://github.com/abhigyan6/Onlyward)  
+<sub>Public concept and progress documentation. The preview does not protect installed apps.</sub>
+
+## Skills & focus
+
+**UX & product design**  
+User flows · Information hierarchy · Interaction design · Responsive layouts · UI consistency · Product prototyping
+
+**Development**  
+React · TypeScript · JavaScript · Node.js · Python · HTML · CSS · Git  
+Continuing to strengthen my Java and computer science fundamentals.
+
+**Learning in public**  
 [JavaScript practice](https://github.com/abhigyan6/JS-NEW) · [Web development exercises](https://github.com/abhigyan6/MANIT-ISTE-WEB-DEV)
+
+## Let's connect
+
+Interested in collaborating on **UX, product design, interfaces, or practical web applications**? Find me on [LinkedIn](https://www.linkedin.com/in/abhigyan-dwivedi) or explore my [portfolio](https://abhigyandwivedi.me).
 
 ---
 
