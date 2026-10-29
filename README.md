@@ -1,5 +1,5 @@
 <h1 align="center">Abhigyan Dwivedi</h1>
-<p align="center">Computer science student &nbsp;•&nbsp; Web development &nbsp;•&nbsp; Automation</p>
+<p align="center">Computer Science student &nbsp;•&nbsp; Full-stack development &nbsp;•&nbsp; Applied AI</p>
 
 <p align="center">
   <a href="https://abhigyandwivedi.me">Website</a> &nbsp;&nbsp;
@@ -9,9 +9,9 @@
 
 ---
 
-I'm studying Computer Science at **LNCTE, India**. I enjoy making small web projects, exploring backend development, and finding things worth automating.
+I'm a Computer Science student at **LNCTE, India**, building full-stack applications and practical AI tools. My projects span HR workflows, cricket video analysis, network troubleshooting, and macOS app privacy.
 
-Right now, I'm working on my **Java and JavaScript fundamentals**, learning **Node.js**, and exploring **UI/UX**. Away from code: anime, gaming, and mystery novels.
+I work with **React, TypeScript, Node.js, and Python**, while continuing to strengthen my Java and computer science fundamentals. I care about clear interfaces, useful documentation, and honest project scope.
 
 #### Working with
 
@@ -23,11 +23,18 @@ Right now, I'm working on my **Java and JavaScript fundamentals**, learning **No
   <img height="24" alt="Git" src="https://img.shields.io/badge/Git-30363d?style=flat-square&amp;logo=git" />
 </p>
 
-#### A few things to explore
+## Selected projects
 
-- **[JS-NEW](https://github.com/abhigyan6/JS-NEW)** — JavaScript projects with React and Vite.
-- **[BallOut-Pro](https://github.com/abhigyan6/BallOut-Pro)** — A TypeScript app.
-- **[netsage-ai](https://github.com/abhigyan6/netsage-ai)** — My Python repository.
+| Project | What it explores | Try it |
+| --- | --- | --- |
+| **[StaffSync](https://github.com/abhigyan6/staffsync-showcase)** | MERN HR management with role-based workflows for HR, managers, and employees. Fictional demo data. | [Live demo](https://staffsync-demo.onrender.com) |
+| **[BallOut Pro](https://github.com/abhigyan6/Balloutpro-)** | React and TypeScript cricket video analysis prototype using Gemini and Firebase. | [Live demo](https://balloutpro.vercel.app) |
+| **[NetSage AI](https://github.com/abhigyan6/netsage-ai)** | Python and Streamlit network troubleshooting with deterministic checks and human-reviewed AI diagnoses. | [Dashboard](https://netsage-ai-app.streamlit.app/) |
+| **[Onlyward](https://github.com/abhigyan6/Onlyward)** | An early macOS app-privacy project; the public repository documents the concept and progress. | [Interactive preview](https://onlyward.app/) |
+
+### Learning & experiments
+
+[JavaScript practice](https://github.com/abhigyan6/JS-NEW) · [Web development exercises](https://github.com/abhigyan6/MANIT-ISTE-WEB-DEV)
 
 ---
 
